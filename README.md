@@ -24,5 +24,6 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshrathor26/dsaSolved/tree/master/0007-reverse-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/harshrathor26/dsaSolved/tree/master/2119-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
