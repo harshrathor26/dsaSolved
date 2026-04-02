@@ -27,4 +27,12 @@
 | [0007-reverse-integer](https://github.com/harshrathor26/dsaSolved/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/harshrathor26/dsaSolved/tree/master/0507-perfect-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/harshrathor26/dsaSolved/tree/master/2119-a-number-after-a-double-reversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/harshrathor26/dsaSolved/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/harshrathor26/dsaSolved/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
